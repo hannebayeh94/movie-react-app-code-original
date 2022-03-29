@@ -1,4 +1,3 @@
-import React from "react";
 import placerholder from "../placeholder.jpg";
 
 export const getMovieimg = (path, width) => {

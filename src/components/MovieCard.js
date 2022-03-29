@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import styles from "./MovieCard.module.css";
-import placerholder from "../placeholder.jpg";
 import { getMovieimg } from "../utils/getMovieimg";
 
 export const MovieCard = ({ movie }) => {
